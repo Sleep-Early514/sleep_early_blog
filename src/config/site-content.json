@@ -53,14 +53,14 @@
 			"type": "github",
 			"value": "https://github.com/Sleep-Early514",
 			"label": "Github",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "email",
 			"type": "email",
 			"value": "wlf051108@outlook.com",
 			"label": "",
-			"order": 1
+			"order": 2
 		},
 		{
 			"id": "button-1771923586056",
