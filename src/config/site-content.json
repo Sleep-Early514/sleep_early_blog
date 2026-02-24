@@ -46,28 +46,28 @@
 			"type": "qq",
 			"value": "292398830",
 			"label": "Github",
-			"order": 3
+			"order": 2
 		},
 		{
 			"id": "juejin",
 			"type": "github",
 			"value": "https://github.com/Sleep-Early514",
 			"label": "Github",
-			"order": 1
+			"order": 4
 		},
 		{
 			"id": "email",
 			"type": "email",
 			"value": "wlf051108@outlook.com",
 			"label": "",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "button-1771923586056",
 			"type": "wechat",
 			"value": "the_tianhe",
 			"label": "",
-			"order": 4
+			"order": 1
 		}
 	],
 	"clockShowSeconds": false,
