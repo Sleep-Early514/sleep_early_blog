@@ -2,7 +2,7 @@
 	{
 		"name": "B站音频下载脚本",
 		"year": 2026,
-		"image": "blob:https://sleepearlyblog-6wn2e1pmt-sleep-early514s-projects.vercel.app/00cf0b9a-815e-46a1-a6af-3e819eaee265",
+		"image": "/images/project/03deadc0c2fdd148.png",
 		"url": "https://github.com/Sleep-Early514/Code_repository/tree/main/python/Bilibili_audio_download",
 		"description": "一个可以自动化单一或批量下载B站视频的音频的脚本，用于保存歌曲或进行语音模型训练。",
 		"tags": [
