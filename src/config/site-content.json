@@ -61,6 +61,13 @@
 			"value": "wlf051108@outlook.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1771923586056",
+			"type": "wechat",
+			"value": "the_tianhe",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
