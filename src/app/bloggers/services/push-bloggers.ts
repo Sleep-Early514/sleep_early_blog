@@ -22,7 +22,7 @@ export async function pushBloggers(params: PushBloggersParams): Promise<void> {
 	const refData = await getRef(token, GITHUB_CONFIG.OWNER, GITHUB_CONFIG.REPO, `heads/${GITHUB_CONFIG.BRANCH}`)
 	const latestCommitSha = refData.sha
 
-	const commitMessage = `更新博主列表`
+	const commitMessage = `更新资源列表`
 
 	toast.info('正在准备文件...')
 

@@ -84,7 +84,7 @@ export default function CreateDialog({ blogger, onClose, onSave }: CreateDialogP
 							type='text'
 							value={formData.name}
 							onChange={e => setFormData({ ...formData, name: e.target.value })}
-							placeholder='博主名称'
+							placeholder='资源名称'
 							className='w-full text-lg font-bold focus:outline-none'
 						/>
 						<input
@@ -111,7 +111,7 @@ export default function CreateDialog({ blogger, onClose, onSave }: CreateDialogP
 				<textarea
 					value={formData.description}
 					onChange={e => setFormData({ ...formData, description: e.target.value })}
-					placeholder='博主介绍...'
+					placeholder='资源介绍...'
 					className='mt-3 w-full resize-none text-sm leading-relaxed focus:outline-none'
 					rows={4}
 				/>
