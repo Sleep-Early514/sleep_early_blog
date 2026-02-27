@@ -10,5 +10,15 @@
 			"脚本"
 		],
 		"github": "https://github.com/Sleep-Early514/Code_repository/tree/main/python/Bilibili_audio_download"
+	},
+	{
+		"name": "图片压缩工具",
+		"year": 2026,
+		"image": "/images/project/877d10599d0f7de7.webp",
+		"url": "https://sleepearlyblog.vercel.app/image-toolbox",
+		"description": "图片压缩工具，用来将.png、.jpg格式的文件转换为适合网页展示的.webp格式。",
+		"tags": [
+			"工具"
+		]
 	}
 ]

@@ -1,9 +1,9 @@
 [
 	{
 		"name": "C站",
-		"avatar": "/images/blogger/7397afc6a68d4488.png",
+		"avatar": "https://civitai.com/favicon.ico",
 		"url": "https://civitai.com/",
-		"description": "AI爱好者必备。",
+		"description": "专注于AI生成艺术模型的分享与交流平台，尤其以Stable Diffusion的各类微调模型、LoRA、Embedding等资源而闻名。",
 		"stars": 5
 	}
 ]

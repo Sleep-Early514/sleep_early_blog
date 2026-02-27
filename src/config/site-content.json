@@ -30,9 +30,25 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "677f21c5a351ddfd",
+			"url": "/images/art/677f21c5a351ddfd.jpg"
+		},
+		{
+			"id": "5424cbc546f2b2de",
+			"url": "/images/art/5424cbc546f2b2de.jpg"
+		},
+		{
+			"id": "8f4579014b36d020",
+			"url": "/images/art/8f4579014b36d020.jpg"
+		},
+		{
+			"id": "0f92c6fa237e0da9",
+			"url": "/images/art/0f92c6fa237e0da9.jpg"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "677f21c5a351ddfd",
 	"backgroundImages": [
 		{
 			"id": "",
